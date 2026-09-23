@@ -1,0 +1,10 @@
+.explore-page { min-height: 100vh; background: #fff; padding: 64px 24px; }
+.explore-container { max-width: 800px; margin: 0 auto; }
+.explore-title { text-align: center; }
+.explore-title h1 { margin: 0 0 16px; font-size: 32px; }
+.explore-title p { color: #60646c; }
+.explore-title a { display: inline-block; margin-top: 16px; padding: 10px 16px; border-radius: 999px; background: #f0f0f3; font-weight: 600; }
+.explore-sections { margin-top: 32px; display: grid; gap: 12px; }
+.collapsible { border: 1px solid #e0e1e6; border-radius: 12px; overflow: hidden; }
+.collapsible button { width: 100%; border: 0; padding: 16px 18px; background: #f8f8fa; display: flex; justify-content: space-between; font-weight: 700; text-align: left; }
+.collapsible-content { padding: 16px 18px; color: #60646c; line-height: 1.5; }
